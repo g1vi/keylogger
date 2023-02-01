@@ -13,3 +13,6 @@ The following parameters can be configured modificating the script:
 
 ### Use
 Generate an .exe with `pyinstaller` and execute in target machine.
+
+### License
+Feel free to use or modify whenever and wherever you like
